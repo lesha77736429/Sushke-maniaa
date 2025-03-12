@@ -1,0 +1,63 @@
+.product{
+    font-size: 40px;
+    color: rgb(29, 72, 151);
+}
+.ert{
+    font-size: 25px;
+}
+body{
+    background-color: bisque;
+}
+.ytr{
+    height: 400px;
+    margin-right: 200px;
+}
+.kol{
+    font-size: 30px;
+}
+footer a{
+    font-size: 50px;
+    border: 2px solid chocolate;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(82, 63, 14);
+}
+.milp{
+    text-align: center;
+    margin-top: 390px;
+}
+.hob{
+    float: left;
+}
+.zaq{
+    margin-top: 200px;
+    font-size: 45px;
+}
+.wcv{
+    height: 470px;
+}
+.wcm{
+    height: 550px;
+}
+.zav{
+    margin-top: 530px;
+    font-size: 45px;
+}
+.wcl{
+    height: 470px;
+}
+.contact{
+    font-size: 35px;
+}
+.open{
+    font-size: 35px;
+    border: 2px solid chocolate;
+}
+.send{
+    font-size: 33px;
+    color: chocolate;
+    background-color: aqua;
+}
+.tow{
+    font-size: 40px;
+}
